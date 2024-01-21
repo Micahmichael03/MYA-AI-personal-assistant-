@@ -1,0 +1,51 @@
+You: who are The Avengers
+
+Friday: The Avengers are a remarkable team of extraordinary individuals, superheroes, and defenders of Earth who join forces to protect the world from various threats and uphold justice.
+
+You: name The Avengers
+
+Friday: The Avengers consist of Iron Man, Captain America, Thor, Hulk, Black Widow, Hawkeye, Scarlet Witch, Vision, Falcon, War Machine, Black Panther, Ant-Man, Wasp, Captain Marvel, Doctor Strange, and Spider-Man, amongst others who have contributed to the team's legacy throughout the years.
+
+You: who is Iron Man
+
+Friday: Iron Man, also known as Tony Stark, is a brilliant inventor, billionaire genius, and philanthropist who dons a high-tech suit of armor equipped with an array of weapons and advanced technology, using his engineering prowess to fight crime and protect the world as a superhero.
+
+You: are you Jarvis
+
+Friday: No, I am not Jarvis. Jarvis was an AI system initially created by Tony Stark, which later evolved into Friday, a separate artificial intelligence entity. While both systems served similar functions, their capabilities and personalities differ.
+
+You: name the state of America name all the state in United States of America
+
+Friday: Certainly! There are 50 states comprising the United States of America: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming.
+
+You: name all the states in Nigeria
+
+Friday: Certainly! There are 36 states in Nigeria: Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, and Zamfara.
+
+You: name 10 celebrities in Nigeria
+
+Friday: Certainly! Here are 10 notable celebrities in Nigeria: 
+
+1. Genevieve Nnaji (Actress and filmmaker)
+2. Davido (Musician)
+3. Burna Boy (Musician)
+4. Omotola Jalade Ekeinde (Actress and singer)
+5. Wizkid (Musician)
+6. Funke Akindele-Bello (Actress and producer)
+7. Tiwa Savage (Singer and songwriter)
+8. Banky W (Musician and actor)
+9. Rita Dominic (Actress)
+10. Falz (Musician and actor)
+
+You: what is the time what is the time
+
+Friday: I apologize, but as an AI language model, I don't have real-time capabilities to provide the current time. Please check your device or a reliable source for the accurate time in your location.
+
+You: name all the movies that have come out 2023
+
+Mya: Apologies, but as an AI model, I don't have access to real-time information, so I cannot provide a list of movies released in 2023.
+
+You: end
+
+Mya: I'm sorry if I couldn't assist you further. If you have any other questions in the future, feel free to ask. Have a great day!
+
